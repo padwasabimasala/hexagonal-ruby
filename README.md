@@ -13,9 +13,9 @@ Robert Martin's talk on Architecture in Rails
 
 http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years
 
-Nulogy has a good article about combing the above concepts
+Victor Savkin has a good article about combing the above concepts
 
-http://engineering.nulogy.com/posts/hexagonal-architecture-for-rails-developers
+http://victorsavkin.com/post/42542190528/hexagonal-architecture-for-rails-developers
 
 # Further Reading
 
