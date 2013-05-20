@@ -31,6 +31,28 @@ Victor Savkin blogs about DCI in Ruby and here discusses decoupling your Rails m
 
 http://victorsavkin.com/post/41016739721/building-rich-domain-models-in-rails-separating
 
+## Some Resources for Ruby CQRS
+
+Ruby CQRS with event sourcing
+
+https://github.com/slashdotdash/rcqrs
+
+Simple Presentation on CQRS in Ruby
+
+http://holsee.com/the-cqrs-diet-presentation/
+
+An example App in Ruby doing CQRS
+
+https://github.com/cavalle/banksimplistic
+
+See the comment [http://stackoverflow.com/questions/6879685/cqrs-in-a-rails-environment](here) on CQRS implementations generally having two databases.
+
+Links from that post
+
+http://www.cqrsinfo.com/
+
+http://www.udidahan.com/2009/12/09/clarified-cqrs/
+
 ## Other Resources
 
 In his talk Robert Martin recommends the book "Object-Oriented Software Engineering" 
