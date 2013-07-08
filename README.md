@@ -3,6 +3,16 @@ hexagonal-ruby
 
 A place to discuss and experiment with Hexagonal Architecture in Ruby and Rails
 
+## Update 2013-07-08
+
+Avdi Grim has a great ebook that covers this topic *VERY* well
+
+http://objectsonrails.com/
+
+In it he references another great article on keeping Rails models thin
+
+http://solnic.eu/2011/08/01/making-activerecord-models-thin.html
+
 ## Core Concepts
 
 Alistari Cockburn's page on Hexagonal Architecture
