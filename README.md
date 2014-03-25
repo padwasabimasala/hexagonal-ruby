@@ -3,6 +3,20 @@ hexagonal-ruby
 
 A place to discuss and experiment with Hexagonal Architecture in Ruby and Rails
 
+## Update 2014-03-25
+
+Collective Idea has a neat little gem for rolling up business rules into interactors. Interactors are just "use cases." They should conform to SRP, and can be linked together for multistep tasks.
+
+The gem makes this all very easy.
+
+https://github.com/collectiveidea/interactor
+
+This is similar to "form objects" or resources described by Code Climate and others
+
+http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
+
+
+
 ## Update 2013-07-08
 
 Avdi Grim has a great ebook that covers this topic *VERY* well
